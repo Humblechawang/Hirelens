@@ -1,0 +1,36 @@
+{
+  "matchScore": 72,
+  "skillsMatch": 78,
+  "experienceMatch": 68,
+  "keywordMatch": 70,
+  "strengths": [
+    "Strong Python and JavaScript foundation covering both backend and frontend",
+    "Demonstrated React expertise with multiple production projects",
+    "Cloud deployment experience with AWS services (EC2, S3, Lambda)",
+    "Experience with modern development practices and CI/CD pipelines"
+  ],
+  "missingSkills": [
+    "GraphQL API development",
+    "Docker and Kubernetes containerization",
+    "TypeScript with strict type checking",
+    "Database optimization and query tuning",
+    "Microservices architecture experience"
+  ],
+  "rejectionReasons": [
+    "No demonstrated leadership or mentorship experience - role requires senior-level candidates",
+    "Missing AWS Solutions Architect certification - listed as preferred requirement",
+    "Limited experience with containerization - modern DevOps requirement",
+    "Experience level appears 2-3 years below the senior role requirements"
+  ],
+  "improvements": [
+    "Convert at least one major project to TypeScript to demonstrate type-safe development patterns",
+    "Add a section documenting hands-on containerization work using Docker, highlighting multi-stage builds and optimization",
+    "Highlight any GraphQL work or create a personal project using GraphQL to fill this gap",
+    "Pursue AWS Solutions Architect - Associate certification (high ROI for job market)",
+    "Quantify business impact: Add metrics, revenue increase percentages, or performance improvements to past achievements",
+    "Include a 'Leadership' or 'Mentorship' section highlighting code reviews, technical documentation, or junior developer guidance",
+    "Add experience with database optimization and query performance tuning if available",
+    "Document microservices or distributed systems experience (even from learning projects)"
+  ],
+  "keyFindings": "Your resume demonstrates solid technical fundamentals with strong React and backend development experience. The primary gap is the seniority level - your experience appears to be mid-level (3-4 years) while the role requires senior (5-7+ years). Key gaps preventing a higher match score: (1) lack of demonstrated technical leadership, (2) missing containerization/DevOps knowledge, (3) no GraphQL experience, (4) missing certifications. Strategic recommendations: Re-frame your accomplishments to emphasize architectural decisions, system design thinking, and mentorship activities. Obtain at least one AWS certification. Add containerization and GraphQL experience through personal projects if not available in your work history. These three focused improvements would likely increase your match score to 85%+. Timeline: 2-3 months of targeted skill development would make you a strong candidate for this role."
+}

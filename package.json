@@ -1,0 +1,30 @@
+{
+  "name": "hirelens-fullstack",
+  "version": "1.0.0",
+  "description": "Resume Analyzer - AI-Powered Job Application Feedback Tool",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start:backend": "node server.js",
+    "build": "npm run build:frontend",
+    "build:frontend": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "install-all": "npm install && npm install --prefix backend && npm install --prefix frontend"
+  },
+  "keywords": [
+    "resume",
+    "analyzer",
+    "gemini",
+    "google",
+    "ai",
+    "job",
+    "ats"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
